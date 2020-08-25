@@ -1,0 +1,9 @@
+Registry Explorer Instructions --> Monitor registry
+
+This tool can load several hives for analysis
+
+!WARNING! Registry Explorer needs to be run as administrator, if the a live analysis of the system is required
+
+Start with:
+File --> Live system --> ADMINI1~ NTUSER.DAT
+Start the analysis of the system

@@ -1,0 +1,26 @@
+
+Autopsy Instructions->Analyse memory dump
+
+Autopsy can be used to analyse files from the system
+In this case the image acquired using a Ram Capturer will be analysed.
+Start with New Case->Case name & Directory->
+Then add the data to be analysed
+Autopsy support the analysis of different extensions files
+1)Disk Image or VM File --> Supported types (.img,.dd,.001,.aa,.raw,.bin,.e01,.vmdk,.vhd)
+This option is used to analyse disk images
+2)Local Disk --> Disk Analysis
+This option is used to analyse local drive without needing to first make an image copy of it
+It is useful when analyzing a USB-attached device through a write blocker
+3)Logical Files --> All files
+This option is used to analysed files or folders on the local computer without putting them into a disk image
+It is useful when only a collection of files needs to be analysed
+4)Unallocated Space Image File --> All files
+Break image up into --> Do not break up
+This option is used to analyse any type of file that does not contain a file system 
+5)Autopsy Logical Imager Results --> a)Import From External Drive b)Manually Choose Folder
+This option is used to results of a logical imager collection to be added
+It is used to collect files from a live Windows computer
+6)XRY Text Export
+The results from exporting text files from XRY
+
+Usually images from RAM are either .e01, .raw or .mem and options 1 and 2 are suitable

@@ -1,0 +1,9 @@
+
+Regshot Instructions --> Monitor registry
+
+Start with:
+Compare logs save as: a)Plain txt b)HTML document
+1st shot: Usually 1st shot is before going through any changes to the system.
+When 1st shot is finished, any changes to the system will be captured by the 2nd shot
+When 2nd shot is finished, press compare
+A document either txt od html, will be created which will contain all the information and changes happened to the system

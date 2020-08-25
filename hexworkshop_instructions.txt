@@ -1,0 +1,6 @@
+Hex Workshop Hex Editor -> Hard Disk analysis
+
+Hex Workshop Hex Editor is a set of hexadecimal developement tools for Windows
+
+Start with
+File --> Open --> select the file to analyse 

@@ -1,0 +1,4 @@
+Network analysis
+Tor browsing without VPN: Press 1
+Tor browsing with VPN: Press 2
+Network analysis finished: Press 3

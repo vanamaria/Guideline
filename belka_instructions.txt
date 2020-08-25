@@ -1,0 +1,6 @@
+Belasoft Live RAM Capturer Instructions --> Capture memory dump
+
+Belasoft Live RAM Capturer is an imaging tool to capture the memory of a computer
+Start with:
+Select the output folder path
+Press Capture

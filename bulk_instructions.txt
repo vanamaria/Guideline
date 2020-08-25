@@ -1,0 +1,13 @@
+Bulk Extractor Instructions --> Analyse memory dump
+
+Bulk Extractor is a program that extracts features such as email addresses, credit card numbers, URLs, etc 
+In this case the image acquired using a Ram Capturer will be analysed
+Start with Tools->Run bulk_extractor
+Choose between a)Image file b)Raw Device c)Directory of Files
+1)Image file --> All files
+Any type of image can be analysed such as .raw, .img, .01, .mem etc
+2)Raw Device --> Device
+3)Directory of Files --> Analyses folders
+In this case, choose a)Image file
+In the Scanners sections selcet all of them
+Press Submit Run

@@ -1,0 +1,21 @@
+
+FTK Imager Instructions --> Create disk image
+
+FTK Imager is an imaging tool 
+
+To create a disk image choose the option "Create disk image" (File --> Create disk image)
+1)Physical Drive --> Select from the following available drives
+This option is used when data from a turned off or a running computer that is not encrypted have to be collected
+2)Logical Drive --> Select from the following available drives
+This option is used when data from a running computer with an encrypted hard drive have to be collected
+3)Image file --> Select file
+This option is used when data from a specific file have to be collected
+4)Contents of a Folder --> Select folder
+This option is used when data from a folder have to be collected
+5)Femico Device (multiple CD/DVD) -->
+This option is used when data from CD/DVD have to be collected
+
+Having the selected the suitable option, the FTK Imager will create a disk image
+
+Now you are ready to start the analysis of the Hard disk image!
+

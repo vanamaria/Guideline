@@ -1,0 +1,7 @@
+MAGNET RAM Capture Instructions --> Capture memory dump
+
+MAGNET RAM Capture is an imaging tool to capture the memory of a computer
+Start with:
+Segment size --> Don't Split
+Save RAM capture to --> Location to save the file
+The file is saved as .raw file

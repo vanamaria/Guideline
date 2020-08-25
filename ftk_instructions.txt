@@ -1,0 +1,9 @@
+
+FTK Imager Instructions --> Dump RAM
+
+FTK Imager is an imaging tool 
+To dump the memory choose the option "Capture memory" (File --> Capture memory), which acquires the data that are stored in the RAM
+It is recommend to selcect "Include pagefile" and "Create AD1 file"
+This is due to that sometimes data are been flushed from the Ram and stored in the Hard disk. 
+Now you are ready to start the analysis of the RAM!
+
