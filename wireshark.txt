@@ -1,0 +1,7 @@
+Wireshark --> Traffic Analysis 
+
+Wireshark is a packet sniffer and packet analyser.
+To capture the network traffic, choose the appropriate "Capture Interface".
+Then open the Tor Browser, so Wireshark can capture the network trafiic.
+Then save the file, so it can be analysed, "File" --> "Save as" --> name.pcap
+
