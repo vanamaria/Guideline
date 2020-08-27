@@ -3,7 +3,7 @@ Belkasoft Evidence Center 2020 --> Analyse memory dump
 
 Belkasoft Evidence Center 2020 can be used to analyse RAM images. 
 In this case the image acquired using the Belkasoft RAM Live Capturer will be analysed.
-Start with "New Case" --> "Case name" -->  "Root Foler" --> "Case folder" --> "Investigator" --> "Time Zone" --> "Create and open"
+Start with "New Case" --> "Case name" -->  "Root Folder" --> "Case folder" --> "Investigator" --> "Time Zone" --> "Create and open"
 Belkasoft Evidence Center 2020 support the analysis of different extensions files
 1)Disk image -->  Supported types (.img,.dd,.001,.aa,.raw,.bin,.e01,.vmdk,.vhd)
 This option is used to analyse disk images.
