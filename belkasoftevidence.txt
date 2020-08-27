@@ -12,7 +12,7 @@ This option is used to analyse drive without needing to first make an image copy
 3)Mobile image --> Supported types(Android, iOS, JTAG, Chip-Off, UFED)
 This option is used to analyse data from mobiles.
 4)RAM image --> Supported types (Live RAM dump, pagefile.sys, hiberfil.sys)
-This option is used to analyse memory iamge
+This option is used to analyse memory image
 
 Choose the type of the data to be analysed
 
