@@ -2,7 +2,7 @@ NetworkMiner --> Traffic Analysis
 
 NetworkMiner is a packet analyser.
 The packet captured from a packet sniffer, for instance, Wireshark can be analysed with NetworkMiner
-To analyse the pcap file, choose "File" --> "Open" --> .pcap file
+To analyse the pcap file, choose "File" --> "Open" --> choose the suitable.pcap file
 
 
 
