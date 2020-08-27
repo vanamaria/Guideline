@@ -1,7 +1,7 @@
 
 Autopsy Instructions->Analyse memory dump
 
-Autopsy can be used to analyse files from the system
+Autopsy can be used to analyse RAM images and hard disk images.
 In this case the image acquired using a Ram Capturer will be analysed.
 Start with New Case->Case name & Directory->
 Then add the data to be analysed
