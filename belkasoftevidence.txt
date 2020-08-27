@@ -1,0 +1,26 @@
+Belkasoft Evidence Center 2020 --> Analyse memory dump
+
+
+Belkasoft Evidence Center 2020 can be used to analyse RAM images. 
+In this case the image acquired using the Belkasoft RAM Live Capturer will be analysed.
+Start with "New Case" --> "Case name" -->  "Root Foler" --> "Case folder" --> "Investigator" --> "Time Zone" --> "Create and open"
+Belkasoft Evidence Center 2020 support the analysis of different extensions files
+1)Disk image -->  Supported types (.img,.dd,.001,.aa,.raw,.bin,.e01,.vmdk,.vhd)
+This option is used to analyse disk images.
+2)Drive --> Choose either logical or physical drive.
+This option is used to analyse drive without needing to first make an image copy of it
+3)Mobile image --> Supported types(Android, iOS, JTAG, Chip-Off, UFED)
+This option is used to analyse data from mobiles.
+4)RAM image --> Supported types (Live RAM dump, pagefile.sys, hiberfil.sys)
+This option is used to analyse memory iamge
+
+Choose the type of the data to be analysed
+
+Belkasoft Evidence Center 2020 support the acquisition and analysis of data
+1)Drive
+This option is used when data from drive need to be acquired and then analysed
+2)Mobile
+This option is used when data from mobile need to be acquired and then analysed
+3)Cloud
+This option is used when data from cloud need to be acquired and then analysed
+
